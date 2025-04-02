@@ -85,14 +85,14 @@ My analysis culminated into the following 3 personas:
 4. Bottom performing categories include Pontiac, Makeup and Cosmetics, and Individual Sports.
      - Makeup and Cosmetics is high cost, high conversion
      - Individual Sports is high cost, low conversion
-5. There's untapped potential in the Agritourism category with it occurring at least twice in the top 10 KPIs (CPC, CPM) but bottom performing in CVR.
+5. There's untapped potential in the Agritourism category with it occurring at least twice in the top 10 KPIs (CPC, CPM), but bottom performing in CVR.
      - What is it about this market that has high interest but low conversion?
 
 <h3>Recommendations</h3>
 
 Strategies for marketing to these personas include: 
 
-1. Financial Planning and Management: aim towards a younger audience of older Gen Z/Young Millenials to accommodate the economic and financial challenges faced by this group.
+1. Financial Planning and Management: market to a younger audience of older Gen Z/Young Millenials to accommodate the economic and financial challenges faced by this group.
 2. Porsche: market to a middle aged male audience - mens' mid-life crises, and young men who want to appear cool and favorable to women.
 3. Loans: market to middle aged consumers who had time to build credit and are more likely to be approved for loans.
 4. Agritourism: market to a younger audience as the trendy new thing. Market to older audience as something fun and new to do with retirement, compare them to the trendy, young folks doing it.
