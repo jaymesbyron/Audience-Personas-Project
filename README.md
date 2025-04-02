@@ -52,7 +52,7 @@ From there, I extracted the top performing segments from each KPI category and c
 
 <h2>Share</h2>
 
-My analysis culminated into the following three personas:
+My analysis culminated into the following 3 personas:
 
 <h3 align="center">
   Audience Persona #1
