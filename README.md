@@ -1,6 +1,8 @@
 <h1>Audience Personas - Data Analysis Capstone</h1>
 
-This analysis is part of a larger group capstone project using a mock telecommunication company's ad data. The project's goal was to identify top performing audiences, creative messaging, locations, and inventory to develop budget allocation strategies for stakeholders. My assigned role on the project was the Audience Analyst. I manipulated the data with Google Sheets and Tableau to create 3 personas based on my findings, using KPI's such as CPA, CVR, and CPC to inform their creation. Alt-text is available for each image in this repository.
+This analysis is part of a larger group capstone project using a mock telecommunication company's ad data. The project's goal was to identify top performing audiences, creative messaging, locations, and inventory to develop budget allocation strategies for stakeholders. My assigned role on the project was the Audience Analyst. I manipulated the data with Google Sheets and Tableau to create 3 personas based on my findings, using KPI's such as CPA, CVR, and CPC to inform their creation. 
+
+Alt-text is available for each image in this repository.
 
 
 
