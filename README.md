@@ -64,7 +64,7 @@ My analysis culminated into the following 3 personas:
   Audience Persona #1
 </h3>
 
-![Photo of a well-dressed, middle-aged gentleman.](https://github.com/user-attachments/assets/488d33cd-b22d-447a-b505-5977b403311e)
+![Photo of a well-dressed, middle-aged gentleman on the righthand side. On the lefthand side, text reads, "Audience Persona #1. George, 56. Demographics: Owns his own home in Little Rock as a married father of two. Works as a loan officer making $100,000 annual. Behavioral Identifiers: He enjoys luxury purchases like cars and keeping up-to-date on the latest investment news. He’s looking towards early retirement with a stable financial history. Savings are important to him, managing his personal brokerage accounts.".](https://github.com/user-attachments/assets/488d33cd-b22d-447a-b505-5977b403311e)
 
 <h3 align="center">
   Audience Persona #2
