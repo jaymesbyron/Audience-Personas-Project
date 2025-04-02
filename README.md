@@ -4,6 +4,7 @@ This analysis is part of a larger group capstone project using a mock telecommun
 
 1. Analyze, clean, and manipulate the data
 2. Identify top performing audiences, creative messaging, locations, and inventory to develop budget allocation strategies for stakeholders.
+3. Produce marketing personas based on analysis.
 
 My assigned role on the project was the Audience Analyst. I manipulated the data with Google Sheets and Tableau to create 3 personas based on my findings, using KPI's such as CPA, CVR, and CPC to inform their creation. 
 
