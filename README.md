@@ -98,7 +98,7 @@ My analysis culminated into the following 3 personas:
 
 Strategies for marketing to these personas include: 
 
-1. Financial Planning and Management: target an audience of older Gen Z/Young Millenials (20 yo - 35 yo) to accommodate the economic and financial challenges faced by this group.
-2. Porsche: target a middle aged male audience - mens' mid-life crises (45 yo - 55 yo), and young men (25 yo - 35 yo)who want to appear cool and favorable to women.
-3. Loans: target middle aged consumers (45 yo - 65 yo) who had time to build credit and are more likely to be approved for loans.
-4. Agritourism: target a younger audience (18 yo - 25 yo) as the trendy new thing. Target an older audience (60 yo - 85 yo) as something fun and new to do with retirement, compare them to the trendy, young folks doing it.
+1. Financial Planning and Management: target an audience of older Gen Z/Young Millenials (20 yo - 35 yo) specifying the economic and financial challenges faced by this group, via static images on Instagram.
+2. Porsche: target a middle-aged male audience (45 yo - 55 yo) going through a "mid-life crisis" and young men (25 yo - 35 yo) who want to appear cool and favorable to women, via a TV commerical campaign and videos on social media.
+3. Loans: target middle aged consumers (45 yo - 65 yo) who had time to build credit and are more likely to be approved for loans, via TV coommericals.
+4. Agritourism: target a younger audience (18 yo - 25 yo) as the trendy new thing. Target an older audience (60 yo - 85 yo) as something fun and new to do with retirement, compare them to the trendy, young folks doing it, via a social media influencer campaign for the younger audience, and TV commercials for the older audience.
