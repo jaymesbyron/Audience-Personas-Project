@@ -105,4 +105,4 @@ Strategies for converting to these personas into customers include:
 3. Loans: target middle aged consumers (45 yo - 65 yo) who had time to build credit and are more likely to be approved for loans.
      - Media strategy: TV coommericals on channels with high-viewership from this age range.
 4. Agritourism: target a younger audience (18 yo - 25 yo) as the trendy new thing. Target an older audience (60 yo - 85 yo) as something fun and new to do with retirement, compare them to the trendy, young folks doing it.
-     - Media strategy: a social media influencer campaign with a series of videos for the younger audience, and TV commercials on their respective channels for the older audience.
+     - Media strategy: a social media influencer campaign with a series of videos for the younger audience, and TV commercials on their respective channels for the older audience. 
