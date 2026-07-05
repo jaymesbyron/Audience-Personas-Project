@@ -96,7 +96,7 @@ My analysis culminated into the following 3 personas:
 
 <h3>Recommendations</h3>
 
-Strategies for marketing to these personas include: 
+Strategies for converting to these personas into customers include: 
 
 1. Financial Planning and Management: target an audience of older Gen Z/Young Millenials (20 yo - 35 yo) specifying the economic and financial challenges faced by this group, via static images on Instagram.
 2. Porsche: target a middle-aged male audience (45 yo - 55 yo) going through a "mid-life crisis" and young men (25 yo - 35 yo) who want to appear cool and favorable to women, via a TV commerical campaign and videos on social media.
